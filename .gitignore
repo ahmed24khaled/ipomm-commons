@@ -1,0 +1,17 @@
+.vscode
+.mypy_cache
+docker-stack.yml
+__pycache__
+app.egg-info
+.coverage
+htmlcov
+tests-reports
+poetry\.lock
+\.idea/
+\.pytest_cache/
+\.benchmarks/
+flake8\.txt
+mongoengine/
+venv/
+.idea/
+fastapi_extra
